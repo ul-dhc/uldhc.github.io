@@ -164,7 +164,7 @@ const STR = {
     focusResearch:'Pētniecība',
     focusResearchCopy:'Starptautiski pētniecības un attīstības projekti digitālā kultūras mantojuma, digitālās folkloristikas, dzīves pierakstīšanas, valodu tehnoloģiju un mākslīgā intelekta jomās, kā arī digitālās transformācijas procesu, tostarp interneta vēstures izpēte Latvijā, kā arī citas tēmas saistībā ar digitālajām humanitārajām zinātnēm.',
     focusEducation:'Izglītība',
-    focusEducationCopy:'Digitālo humanitāro zinātņu studiju kurss dažādās LU HZF bakalaura studiju programmās, Baltijas Digitālo humanitāro zinātņu vasaras skolas organizēšana un dalība starptautisko studiju kursu un mācību materiālu izstrāde.',
+    focusEducationCopy:'Digitālo humanitāro zinātņu studiju kurss dažādās LU HZF bakalaura studiju programmās, Baltijas Digitālo humanitāro zinātņu vasaras skolas organizēšana un dalība starptautisko studiju kursu un mācību materiālu izstrādē.',
     focusInfrastructure:'Humanitāro zinātņu digitālā infrastruktūra',
     focusInfrastructureCopy:'Resursu veidošana un attīstīšana sadarbībā ar partneriem, konsultāciju sniegšana, kā arī daudzveidīga starptautiskā sadarbība, tostarp iesaiste DARIAH-EU un CLARIN-LV.',
     focusCommunity:'DH komunikācija un sadarbība',
